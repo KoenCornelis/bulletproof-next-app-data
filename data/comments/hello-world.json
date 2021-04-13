@@ -6,5 +6,13 @@
     "content": "This is it",
     "createdAt": 1618336463439,
     "id": "QQ8TYtLFTxQeEVcGBe8Aj79bERRSJi"
+  },
+  {
+    "userId": "test",
+    "name": "test",
+    "avatar": "test",
+    "content": "This is the comment content",
+    "createdAt": 1618337657566,
+    "id": "apszhu3JuCCrWt5Z3dpgYKf11ohDOe"
   }
 ]
